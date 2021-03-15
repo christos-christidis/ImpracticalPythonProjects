@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.openjfx:javafx-base:12-ea+4" type="repository">
+    <properties maven-id="org.openjfx:javafx-base:12-ea+4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/12-ea+4/javafx-base-12-ea+4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/12-ea+4/javafx-base-12-ea+4-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
